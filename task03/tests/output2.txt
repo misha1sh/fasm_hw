@@ -1,0 +1,4 @@
+Press any key to continue . . . 
+Count of encoded characters: Encoded characters: (in format '<number1> <number2> ... <numberN>'
+Count of cipher entries: Cipher entries (in format '<character> = <number>\n'):
+Decoded message: !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
