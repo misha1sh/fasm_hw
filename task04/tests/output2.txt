@@ -1,0 +1,5 @@
+Count of encoded characters: Encoded characters: (in format '<number1> <number2> ... <numberN>'
+Count of cipher entries: Cipher entries (in format '<character> = <number>\n'):
+Thread 7 / 8 finished task 0
+Decoded message: !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+Press enter to continue...
